@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2193" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2179" class="large">
     <defs>
         <style/>
     </defs>
@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            488 Commits
+                            504 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    21.8k added, 12.5k removed
+                                    193k added, 129k removed
                                 </div>
                             </section>
                             <section>
@@ -341,16 +341,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 5.72mb of code in 2089 edited files across 428 commits</small>
+                <small>estimation from 5.68mb of code in 1822 edited files across 145 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.83003562562965" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="355.83003562562965" y="0" width="336.0914287296988" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="691.9214643553285" y="0" width="193.85051084175504" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="885.7719751970834" y="0" width="34.22802480291652" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="586.6360725354886" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="586.6360725354886" y="0" width="319.58994731644947" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="906.2260198519381" y="0" width="12.316763414898658" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="918.5427832668368" y="0" width="1.457216733163239" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -363,21 +363,7 @@
                             </div>
                             <small>
                                 <div>5.79k lines</div>
-                                <div>38.68%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                HTML
-                            </div>
-                            <small>
-                                <div>13.6k lines</div>
-                                <div>36.53%</div>
+                                <div>63.76%</div>
                             </small>
                         </div>
                     </section>
@@ -391,7 +377,21 @@
                             </div>
                             <small>
                                 <div>5.04k lines</div>
-                                <div>21.07%</div>
+                                <div>34.74%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                HTML
+                            </div>
+                            <small>
+                                <div>84 lines</div>
+                                <div>1.34%</div>
                             </small>
                         </div>
                     </section>
@@ -404,8 +404,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>375 lines</div>
-                                <div>3.72%</div>
+                                <div>38 lines</div>
+                                <div>0.16%</div>
                             </small>
                         </div>
                     </section>
@@ -2394,8 +2394,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1800c80</div>
-                                        <div class="message">Rename aboutme.html to about.html</div>
+                                        <div class="sha">#d76b009</div>
+                                        <div class="message">Update style.css</div>
                                     </div>
                                 </div>
                             </section>
@@ -2414,8 +2414,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6b43d8a</div>
-                                        <div class="message">Create aboutme.html</div>
+                                        <div class="sha">#0e0e173</div>
+                                        <div class="message">Cleared commit history</div>
                                     </div>
                                 </div>
                             </section>
@@ -2434,8 +2434,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9e0f05b</div>
-                                        <div class="message">Create earthguard.html</div>
+                                        <div class="sha">#3bd4b37</div>
+                                        <div class="message">Delete imports directory</div>
                                     </div>
                                 </div>
                             </section>
@@ -2454,28 +2454,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a8bce61</div>
+                                        <div class="sha">#eec8877</div>
+                                        <div class="message">Rename imports/style.css to style.css</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">StellarWitch7/stellarwitch7.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6ed803d</div>
                                         <div class="message">Update index.html</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StellarWitch7/stellarwitch7.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d0403ef</div>
-                                        <div class="message">Move earthguard.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2505,7 +2505,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 20 Jun 2023, 01:01:04
+                            On 20 Jun 2023, 00:28:50
                         </div>
                     </section>
                 </div>
@@ -2515,14 +2515,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Item group fixes
+                            Fixed default item group
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">cf0267cf</span>
-                            <span class="code">src/main/java/com/github/stellarwitch7/example/datagen/ModLanguageGenerator.java</span>
+                            <span class="code">d200cbbe</span>
+                            <span class="code">src/main/java/com/github/stellarwitch7/example/ExampleMod.java</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--2</span>
@@ -2533,14 +2533,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -24,7 +24,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">@Override<br /></span><span class="token prefix unchanged">·</span><span class="token line">public void generateTranslations(TranslationBuilder translationBuilder) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">	translationBuilder.add(ExampleMod.ITEM_GROUP,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">	translationBuilder.add(ExampleMod.MOD_ID + ".main_item_group",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">			StringUtils.capitalize(ExampleMod.MOD_ID));<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">	//Generate block translations<br /></span></span>@@ -62,7 +62,7 @@ protected UsEnglishLangProvider(FabricDataOutput dataOutput) {<br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">@Override<br /></span><span class="token prefix unchanged">·</span><span class="token line">public void generateTranslations(TranslationBuilder translationBuilder) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">	translationBuilder.add(ExampleMod.ITEM_GROUP,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">	translationBuilder.add(ExampleMod.MOD_ID + ".main_item_group",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">			StringUtils.capitalize(ExampleMod.MOD_ID));<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">	//Generate block translations</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">package com.github.stellarwitch7.example;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import net.minecraft.item.Items;<br /></span><span class="token prefix unchanged">·</span><span class="token line">import org.apache.commons.lang3.StringUtils;<br /></span><span class="token prefix unchanged">·</span><span class="token line">import com.github.stellarwitch7.example.registry.ModRegistry;<br /></span></span>@@ -18,7 +18,7 @@ public class ExampleMod implements ModInitializer {<br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">public static final Logger LOGGER =<br /></span><span class="token prefix unchanged">·</span><span class="token line">		LoggerFactory.getLogger(StringUtils.capitalize(MOD_ID));<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static final ItemGroup ITEM_GROUP =<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">		FabricItemGroup.builder(new Identifier(ExampleMod.MOD_ID, "main_item_group"))<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		FabricItemGroupBuilder.create(new Identifier(ExampleMod.MOD_ID, "main_item_group"))<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">				.icon(() -&gt; new ItemStack(Items.EMERALD))<br /></span><span class="token prefix unchanged">·</span><span class="token line">				.build();<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2023, 02:47:35 (timezone America/Toronto) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 03:12:10 (timezone America/Toronto) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
