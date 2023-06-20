@@ -1,7 +1,6 @@
 name: Update Website
 on:
   workflow_dispatch:
-  schedule: [{cron: "0 0 * * *"}]
   push:
     branches:
       - main
@@ -9,22 +8,20 @@ on:
       - '**.md'
 
 jobs:
-  converttohtml:
-    name: Build HTML
+  updatereadme:
+    name: Update webpage
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: mv README.md about.md
-      - run: mkdir -p copy-over
-      - run: mv *.md ./copy-over/
+      - run: mv README.md index.md
       - run: git pull
       - uses: dmnemec/copy_file_to_another_repo_action@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: './copy-over/.'
+          source_file: './index.md'
           destination_repo: 'StellarWitch7/stellarwitch7.github.io'
           destination_folder: './markdown/'
           user_email: '131844170+StellarWitch7@users.noreply.github.com'
           user_name: 'StellarWitch7'
-          commit_message: 'Copied files from https://github.com/StellarWitch7/StellarWitch7'
+          commit_message: 'Updated index.md from https://github.com/StellarWitch7/StellarWitch7'
