@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    274 views in last two weeks
+                                    263 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -341,16 +341,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 5.87mb of code in 2112 edited files across 234 commits</small>
+                <small>estimation from 5.15mb of code in 1972 edited files across 200 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="474.3181540612589" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="474.3181540612589" y="0" width="432.8340583952058" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="907.1522124564647" y="0" width="10.82724435778329" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="917.979456814248" y="0" width="2.020543185752008" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="478.26389006845244" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="478.26389006845244" y="0" width="436.4346984186299" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="914.6985884870824" y="0" width="3.264059925602568" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="917.962648412685" y="0" width="2.037351587315068" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -363,7 +363,7 @@
                             </div>
                             <small>
                                 <div>10.3k lines</div>
-                                <div>51.56%</div>
+                                <div>51.99%</div>
                             </small>
                         </div>
                     </section>
@@ -377,7 +377,7 @@
                             </div>
                             <small>
                                 <div>5.79k lines</div>
-                                <div>47.05%</div>
+                                <div>47.44%</div>
                             </small>
                         </div>
                     </section>
@@ -390,8 +390,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>110 lines</div>
-                                <div>1.18%</div>
+                                <div>65 lines</div>
+                                <div>0.35%</div>
                             </small>
                         </div>
                     </section>
@@ -529,7 +529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>StellarWitch7/Language-Parser</span>
-                                        <span>created 11 days ago</span>
+                                        <span>created 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A feable attempt at making my own programming language, named Squyrm, and compiled using C#.</div>
@@ -2529,7 +2529,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2023, 21:27:48 (timezone America/Toronto) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jul 2023, 05:16:36 (timezone America/Toronto) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
