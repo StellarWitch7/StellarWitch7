@@ -18,6 +18,10 @@
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
 </a>
 
+## Currently Learning
+
+[![I am learning TypeScript, HTML, and CSS](https://skillicons.dev/icons?i=ts,html,css)](https://skillicons.dev)
+
 ## Known Languages
 
 [![I know CSharp and Java](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
