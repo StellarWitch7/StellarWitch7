@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">I make Minecraft Fabric mods, Unity games, and C# apps.</div>
+                        <div class="introduction">Yet another insane person making yet another programming language.</div>
                     </section>
                 </div>
             </section>
@@ -2723,7 +2723,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2023, 05:14:29 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2023, 14:18:34 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
