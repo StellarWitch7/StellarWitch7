@@ -3,6 +3,12 @@ name: Metrics
 on:
   schedule: [{cron: "0 */9 * * *"}]
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.yml'
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
