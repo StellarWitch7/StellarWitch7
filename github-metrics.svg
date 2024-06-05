@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1813" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2129" class="large">
     <defs>
         <style/>
     </defs>
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 102 repositories
+                            Starred 104 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    6.09 GB used
+                                    6.21 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2354,6 +2354,155 @@
                                     </svg>
                                     <div class="content">
                                         Starred
+                                        <span class="repo">NixOS/nixos-artwork</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10000 commits in
+                                        <span class="repo">StellarWitch7/nixpkgs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1e69af8</div>
+                                        <div class="message">python311Packages.diffusers: 0.27.2 -&gt; 0.28.0
+
+Diff: https://github.com/huggingface/diffusers/compare/refs/tags/v0.27.2...v0.28.0
+
+Changelog: https://github.com/huggingface/diffusers/releases/tag/refs/tags/v0.28.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2133e76</div>
+                                        <div class="message">Merge pull request #316470 from fabaff/tesla-fleet-api-bump
+
+python312Packages.tesla-fleet-api: 0.5.12 -&gt; 0.6.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1d0799</div>
+                                        <div class="message">clips: expose library and headers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3eba04d</div>
+                                        <div class="message">clips: 6.40 -&gt; 6.4.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#739b96e</div>
+                                        <div class="message">Merge pull request #316564 from r-ryantm/auto-update/bdf2psf
+
+bdf2psf: 1.226 -&gt; 1.227</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bab3620</div>
+                                        <div class="message">emacsPackage.el-easydraw: 1.1.0 → 20240529.1009</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8dd7518</div>
+                                        <div class="message">emacsPackage.el-easydraw: fix passthru.updateScript
+Use the same update script that is inlined in some other manual package derivations
+as  has an incompatible version string format.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#991ff76</div>
+                                        <div class="message">Merge pull request #316589 from r-ryantm/auto-update/fcitx5-bamboo
+
+fcitx5-bamboo: 1.0.5 -&gt; 1.0.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be7d2eb</div>
+                                        <div class="message">python312Packages.githubkit: 0.11.4 -&gt; 0.11.5
+
+Diff: https://github.com/yanyongyu/githubkit/compare/refs/tags/v0.11.4...v0.11.5
+
+Changelog: https://github.com/yanyongyu/githubkit/releases/tag/v0.11.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f09c67</div>
+                                        <div class="message">Merge pull request #314691 from SuperSandro2000/spectacle-opencv
+
+ spectacle: use minimal opencv</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa2756c</div>
+                                        <div class="message">python312Packages.fastcore: 1.5.42 -&gt; 1.5.43
+
+Diff: https://github.com/fastai/fastcore/compare/refs/tags/1.5.42...1.5.43
+
+Changelog: https://github.com/fastai/fastcore/blob/1.5.43/CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc5fcc9</div>
+                                        <div class="message">python311Packages.angr: 9.2.103 -&gt; 9.2.104
+
+Diff: https://github.com/angr/angr/compare/refs/tags/v9.2.103...v9.2.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bb3efe</div>
+                                        <div class="message">python312Packages.cle: 9.2.103 -&gt; 9.2.104
+
+Diff: https://github.com/angr/cle/compare/refs/tags/v9.2.103...v9.2.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5afcad1</div>
+                                        <div class="message">python312Packages.claripy: 9.2.103 -&gt; 9.2.104
+
+Diff: https://github.com/angr/claripy/compare/refs/tags/v9.2.103...v9.2.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3aa11e6</div>
+                                        <div class="message">python312Packages.pyvex: 9.2.103 -&gt; 9.2.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#321f7fa</div>
+                                        <div class="message">python312Packages.ailment: 9.2.103 -&gt; 9.2.104
+
+Diff: https://github.com/angr/ailment/compare/refs/tags/v9.2.103...v9.2.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f50f944</div>
+                                        <div class="message">python312Packages.archinfo: 9.2.103 -&gt; 9.2.104
+
+Diff: https://github.com/angr/archinfo/compare/refs/tags/v9.2.103...v9.2.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7617c6b</div>
+                                        <div class="message">mantra: 1.1 -&gt; 2.0
+
+Diff: https://github.com/MrEmpy/Mantra/compare/refs/tags/v1.1...v2.0
+
+Changelog: https://github.com/MrEmpy/Mantra/releases/tag/v2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aede049</div>
+                                        <div class="message">exploitdb: 2024-06-01 -&gt; 2024-06-02
+
+Diff: https://gitlab.com/exploit-database/exploitdb/-/compare/refs/tags/2024-06-01...2024-06-02</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d720ee</div>
+                                        <div class="message">Merge pull request #316597 from r-ryantm/auto-update/goaccess
+
+goaccess: 1.9.2 -&gt; 1.9.3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
                                         <span class="repo">maralorn/nix-output-monitor</span>
                                     </div>
                                 </div>
@@ -2392,39 +2541,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">kampka/nixify</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StellarWitch7/nurpkgs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c384c23</div>
-                                        <div class="message">Pinned rust overlay for playit</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2448,7 +2564,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2024, 05:22:11 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2024, 14:23:17 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
