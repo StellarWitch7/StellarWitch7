@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2371" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2042" class="large">
     <defs>
         <style/>
     </defs>
@@ -2428,6 +2428,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">StellarWitch7/trickster</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">item-handling</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a129e61</div>
+                                        <div class="message">Optifabric breaks, but the wither won't!</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2497,104 +2517,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 87 commits in
-                                        <span class="repo">StellarWitch7/trickster</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">item-handling</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#99670f8</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/master' into trees</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d248c65</div>
-                                        <div class="message">documentation and translations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2b3220</div>
-                                        <div class="message">update Remove Subtree pattern</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01b8d7f</div>
-                                        <div class="message">retrieve subtree</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26ae038</div>
-                                        <div class="message">replace AddLeafNodeTrick with AddSubtreeTrick</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b95336c</div>
-                                        <div class="message">Sorry to refactor again, but i think this is warranted :D</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ffb3a9</div>
-                                        <div class="message">Merge branch 'enjarai:master' into master</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1cac4b4</div>
-                                        <div class="message">Added Conduit's Ploy for torturous purposes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6eb698</div>
-                                        <div class="message">Scroll cloning</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c2d239</div>
-                                        <div class="message">Merge branch 'enjarai:master' into master</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#177b5b5</div>
-                                        <div class="message">Mana? What mana? *Disappears*</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6ff424</div>
-                                        <div class="message">Signable scrollery</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0910922</div>
-                                        <div class="message">Cleaned up the item shenanigans</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65ea32b</div>
-                                        <div class="message">Merge pull request #1 from StellarWitch7/item-handling
-
-Item handling! Yippee!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aed927f</div>
-                                        <div class="message">properly update offhand spell</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#899da75</div>
-                                        <div class="message">add leaf node and remove subtree</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3ba778</div>
-                                        <div class="message">get address of spell inside glyph</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26ca7af</div>
-                                        <div class="message">more tree patterns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#953c522</div>
-                                        <div class="message">Retrive Glyph</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97a55b4</div>
-                                        <div class="message">locate glyphs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2630,16 +2552,16 @@ Item handling! Yippee!</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Added Conduit's Ploy for torturous purposes
+                            Mana? What mana? *Disappears*
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1cac4b4d</span>
-                            <span class="code">src/main/java/dev/enjarai/trickster/spell/tricks/Tricks.java</span>
+                            <span class="code">177b5b54</span>
+                            <span class="code">src/main/java/dev/enjarai/trickster/block/SpellCircleBlockEntity.java</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -2648,14 +2570,14 @@ Item handling! Yippee!</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -79,6 +79,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">public static final AddVelocityTrick ADD_VELOCITY = register("add_velocity", new AddVelocityTrick());<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static final PolymorphTrick POLYMORPH = register("polymorph", new PolymorphTrick());<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static final DispelPolymorphTrick DISPEL_POLYMORPH = register("dispel_polymorph", new DispelPolymorphTrick());<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">public static final GetEntityManaTrick GET_MANA = register("get_mana", new GetEntityManaTrick());<br /></span><span class="token prefix inserted">+</span><span class="token line">public static final LeechEntityManaTrick LEECH_MANA = register("leech_mana", new LeechEntityManaTrick());<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">// Math<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static final AddTrick ADD = register("add", new AddTrick());</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -37,6 +37,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">public Text lastError;<br /></span><span class="token prefix unchanged">·</span><span class="token line">public int age;<br /></span><span class="token prefix unchanged">·</span><span class="token line">public CrowMind crowMind = new CrowMind(VoidFragment.INSTANCE);<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">public ManaPool manaPool = new ManaPool();<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">public SpellCircleBlockEntity(BlockPos pos, BlockState state) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">    super(ModBlocks.SPELL_CIRCLE_ENTITY, pos, state);</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2024, 05:19:40 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 14:24:24 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
