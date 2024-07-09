@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2222" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2371" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2432,12 +2432,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#13 New glyphs and cost system</span>
+                                        <span class="issue">#88 java.lang.RuntimeException: Could not execute entrypoint stage 'client' due to errors, provided by 'showmeyourskin'!</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by StellarWitch7 in <span class="repo">enjarai/trickster</span></div>
-                                    <div class="comment">We're ready to merge!</div>
+                                    <div>opened by Marotheit in <span class="repo">enjarai/show-me-your-skin</span></div>
+                                    <div class="comment">No problem. The update likely had some change in the parser that caused it to fail with the old config.</div>
                                 </div>
                             </section>
                         </div>
@@ -2445,38 +2445,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Created new
+                      branch
+                                        <span class="code">old-item-handling</span>
+                                        in
                                         <span class="repo">StellarWitch7/trickster</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f701ae</div>
-                                        <div class="message">Tweak tweak tweak, I'm a baby bird</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StellarWitch7/trickster</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eddde44</div>
-                                        <div class="message">Showcase ain't theft anymore, gods bless!</div>
                                     </div>
                                 </div>
                             </section>
@@ -2493,10 +2469,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">item-handling</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d711bb8</div>
-                                        <div class="message">Made get_armour compatible with metaprogramming PR</div>
+                                        <div class="sha">#00f410f</div>
+                                        <div class="message">Small change</div>
                                     </div>
                                 </div>
                             </section>
@@ -2508,19 +2484,113 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">StellarWitch7/trickster</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">item-handling</span></div>
                                     <div class="commit">
-                                        <div class="sha">#44da213</div>
-                                        <div class="message">Pound the ground with no weapon found</div>
+                                        <div class="sha">#41a32fb</div>
+                                        <div class="message">Re-added item handling from an older commit</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 87 commits in
+                                        <span class="repo">StellarWitch7/trickster</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">item-handling</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#99670f8</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/master' into trees</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ea01348</div>
-                                        <div class="message">Only tool items may have their spells triggered now</div>
+                                        <div class="sha">#d248c65</div>
+                                        <div class="message">documentation and translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2b3220</div>
+                                        <div class="message">update Remove Subtree pattern</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01b8d7f</div>
+                                        <div class="message">retrieve subtree</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26ae038</div>
+                                        <div class="message">replace AddLeafNodeTrick with AddSubtreeTrick</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b95336c</div>
+                                        <div class="message">Sorry to refactor again, but i think this is warranted :D</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ffb3a9</div>
+                                        <div class="message">Merge branch 'enjarai:master' into master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cac4b4</div>
+                                        <div class="message">Added Conduit's Ploy for torturous purposes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6eb698</div>
+                                        <div class="message">Scroll cloning</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c2d239</div>
+                                        <div class="message">Merge branch 'enjarai:master' into master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#177b5b5</div>
+                                        <div class="message">Mana? What mana? *Disappears*</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6ff424</div>
+                                        <div class="message">Signable scrollery</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0910922</div>
+                                        <div class="message">Cleaned up the item shenanigans</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65ea32b</div>
+                                        <div class="message">Merge pull request #1 from StellarWitch7/item-handling
+
+Item handling! Yippee!</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aed927f</div>
+                                        <div class="message">properly update offhand spell</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#899da75</div>
+                                        <div class="message">add leaf node and remove subtree</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3ba778</div>
+                                        <div class="message">get address of spell inside glyph</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26ca7af</div>
+                                        <div class="message">more tree patterns</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#953c522</div>
+                                        <div class="message">Retrive Glyph</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97a55b4</div>
+                                        <div class="message">locate glyphs</div>
                                     </div>
                                 </div>
                             </section>
@@ -2550,7 +2620,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 6 Jul 2024, 06:08:33
+                            On 8 Jul 2024, 16:41:51
                         </div>
                     </section>
                 </div>
@@ -2560,17 +2630,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Slight tweak, cleaner now
+                            Added Conduit's Ploy for torturous purposes
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e63e7162</span>
-                            <span class="code">src/main/java/dev/enjarai/trickster/spell/tricks/entity/AddVelocityTrick.java</span>
+                            <span class="code">1cac4b4d</span>
+                            <span class="code">src/main/java/dev/enjarai/trickster/spell/tricks/Tricks.java</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--4</span>
+                                <span class="snippet deletions">--0</span>
                             </span>
                         </div>
                     </section>
@@ -2578,14 +2648,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -21,16 +21,14 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   @Override<br /></span><span class="token prefix unchanged">·</span><span class="token line">   public Fragment activate(SpellContext ctx, List&lt;Fragment&gt; fragments) throws BlunderException {<br /></span><span class="token prefix unchanged">·</span><span class="token line">       var entity = expectInput(fragments, FragmentType.ENTITY, 0);<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">       var velocity = expectInput(fragments, FragmentType.VECTOR, 1);<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">       var target = entity.getEntity(ctx).orElseThrow(() -&gt; new UnknownEntityBlunder(this));<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">       if (target instanceof PlayerEntity player) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">           fragments = ModEntityCumponents.WARD.get(player)<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">                   .run(ctx, this, new SpellPart(new PatternGlyph(4, 6, 0, 1, 2, 8, 4), new ArrayList&lt;&gt;()), fragments);<br /></span><span class="token prefix deleted">-</span><span class="token line">           velocity = expectInput(fragments, FragmentType.VECTOR, 1);<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">                   .run(ctx, this, new SpellPart(new PatternGlyph(pattern)), fragments);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">       }<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">       var velocity = expectInput(fragments, FragmentType.VECTOR, 1);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">       ctx.useMana(this, (float)velocity.vector().length() * 4);<br /></span><span class="token prefix unchanged">·</span><span class="token line">       target.addVelocity(velocity.vector().x(), velocity.vector().y(), velocity.vector().z());<br /></span><span class="token prefix unchanged">·</span><span class="token line">       target.velocityModified = true;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -79,6 +79,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">public static final AddVelocityTrick ADD_VELOCITY = register("add_velocity", new AddVelocityTrick());<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static final PolymorphTrick POLYMORPH = register("polymorph", new PolymorphTrick());<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static final DispelPolymorphTrick DISPEL_POLYMORPH = register("dispel_polymorph", new DispelPolymorphTrick());<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">public static final GetEntityManaTrick GET_MANA = register("get_mana", new GetEntityManaTrick());<br /></span><span class="token prefix inserted">+</span><span class="token line">public static final LeechEntityManaTrick LEECH_MANA = register("leech_mana", new LeechEntityManaTrick());<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">// Math<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static final AddTrick ADD = register("add", new AddTrick());</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2024, 21:19:16 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 05:19:40 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
