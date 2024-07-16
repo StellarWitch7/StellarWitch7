@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2005" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2644" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 32 repositories
+                            Contributed to 31 repositories
                         </div>
                     </section>
                 </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            929 Commits
+                            931 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,11 +346,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="475.5600752222229" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="475.5600752222229" y="0" width="365.7711825189657" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="841.3312577411887" y="0" width="37.53407562381116" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="878.8653333649999" y="0" width="30.126313168279136" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="908.991646533279" y="0" width="11.008353466721076" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="475.55357243098604" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="475.55357243098604" y="0" width="365.7661809770695" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="841.3197534080556" y="0" width="37.54614243088531" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="878.8658958389408" y="0" width="30.125901222164487" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="908.9917970611053" y="0" width="11.008202938894653" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -658,6 +658,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 9 days
@@ -678,7 +684,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.07
+                            Average per day at ~2.08
                         </div>
                     </section>
                 </div>
@@ -1666,10 +1672,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-1.7, 6.72093023255814)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2790697674418605 0,1.2790697674418605 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2790697674418605 1.7,2.2790697674418605 z"/>
                             </g>
                         </g>
                     </g>
@@ -1940,7 +1946,7 @@
                                 </g>
                                 <g transform="translate(420, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -2434,15 +2440,220 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StellarWitch7/trickster</span>
+                                        Pushed 16 commits in
+                                        <span class="repo">StellarWitch7/ImageSorter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cfda8b7</div>
+                                        <div class="message">Refactored the entire thing, putting all operation/file logic into a separate class. The forms now just operate on the class. This will also make it easier to port this to other GUIs as desired.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57b7a6e</div>
+                                        <div class="message">Nope but this did</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04be25f</div>
+                                        <div class="message">Incremented version in application settings, no clue if this does anything</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28e0520</div>
+                                        <div class="message">Added folder name and progress text on the menu
+Removed text indicator from progress bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96109d0</div>
+                                        <div class="message">New fancy menu is done.
+If the file rename function is used, the filename is shown next to the rename button for convenience.
+Enjoy the crappy pixel art.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#145e93c</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/htmlcoderexe/ImageSorter into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76d589e</div>
+                                        <div class="message">Welp, apparently there are no shortcut accelerators that I can find for those menus... let's just hide the menu which does define them I guess</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59b482b</div>
+                                        <div class="message">I warned you about the pixel art bro</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f139073</div>
+                                        <div class="message">kindly. fucking. sign my commits</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c401777</div>
+                                        <div class="message">come on git dont be git</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19d9133</div>
+                                        <div class="message">Update README.md
+
+welp still no "verified commit"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92bb593</div>
+                                        <div class="message">starting to add the image-based menu instead of labels and ugliness. also something about commits and git and all that dark magic fuckery</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d762e9</div>
+                                        <div class="message">Added a comment to test if git fuckery is resolved</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#909dea8</div>
+                                        <div class="message">updated the sln file to reflect the LICENSE commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23504c7</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/htmlcoderexe/ImageSorter into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2707570</div>
+                                        <div class="message">+ Added refresh function
++ Workaround for the progress bar disappearing (the reason is that Winforms is shit sometimes and for whatever reason you cannot have transparent text background, and ProgressBars don't even expose the Paint event. I am NOT making a custom control for this...</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 173 commits in
+                                        <span class="repo">StellarWitch7/Mindustry</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a7d7af4</div>
-                                        <div class="message">Bedrock silly</div>
+                                        <div class="sha">#a8b08da</div>
+                                        <div class="message">Pathfinder crash "fix"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#251e5cc</div>
+                                        <div class="message">Pathfinder error fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abf3111</div>
+                                        <div class="message">Fixed #9821</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d21d606</div>
+                                        <div class="message">Fixed #9820</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d90202</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd81bf1</div>
+                                        <div class="message">Closes Anuken/Mindustry-Suggestions/issues/4993</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afdf774</div>
+                                        <div class="message">Update servers_v7.json (#9814)
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee10728</div>
+                                        <div class="message">Update servers_v7.json - Add TSR Custom Server (#9810)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab002b7</div>
+                                        <div class="message">Update servers_v7.json (#9809)
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c64afa9</div>
+                                        <div class="message">Update bundle_hu.properties (#9807)
+
+1) Follow changes to the English language file and translate it into Hungarian.
+2) Translation into Hungarian of the quantitative adjectives that are usually omitted.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b12fac3</div>
+                                        <div class="message">i fix bug heheheheheheheeeeh (#9808)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2500b2</div>
+                                        <div class="message">arc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d934fff</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#179adab</div>
+                                        <div class="message">Fixed #9804</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0955f5</div>
+                                        <div class="message">Automatic bundle update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08429b5</div>
+                                        <div class="message">Add turret ammo capacity to the in-game help (#9777)
+
+* Add turret ammo capacity to the in-game help
+
+* Rename max shots to ammo capacity
+
+* Rename ammo multipier to ammo per item</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#143db64</div>
+                                        <div class="message">Updated the core landing sound and added a launch sound (#9802)
+
+* Added core launch sound and remade the land sound,
+
+* Updated the land.ogg to use Synth Pad 3
+
+* Added saw
+
+* Updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9ea8be</div>
+                                        <div class="message">Call onRemoved() in StatusEffect.java when an effect is removed (#9801)
+
+* Call onRemoved() in StatusEffect.java when an effect is removed
+
+* Call onRemoved() in StatusEffect.java when an effect is removed
+
+* cleanup
+
+* cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e618a2</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53996ad</div>
+                                        <div class="message">Possible ArrayIndexOutOfBounds fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -2451,32 +2662,39 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">old-mana-redstone</span>
-                                        in
+                                        Pushed 10 commits in
                                         <span class="repo">StellarWitch7/trickster</span>
                                     </div>
                                 </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">lric-aka-long-range-item-cannon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f59db55</div>
+                                        <div class="message">Merge branch 'master' into lric-aka-long-range-item-cannon</div>
+                                    </div>
+                                </div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#18 Item slot references, projectile spells, and other miscellaneous things</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">StellarWitch7/trickster</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by StellarWitch7 in <span class="repo">enjarai/trickster</span></div>
-                                    <div class="comment">Now includes four advancements.</div>
+                                    <div>on branch <span class="code">lric-aka-long-range-item-cannon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb6489e</div>
+                                        <div class="message">Item Deletion Inc. is not responsible for any Item Deletions<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /></div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2494,28 +2712,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8effc83</div>
-                                        <div class="message">We advance, blades drawn, eyes on the horizon!</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StellarWitch7/trickster</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9bbe9b8</div>
-                                        <div class="message">Why won't it work</div>
+                                        <div class="sha">#84c04b1</div>
+                                        <div class="message">Update overflux_death.json</div>
                                     </div>
                                 </div>
                             </section>
@@ -2545,7 +2743,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 13 Jul 2024, 01:39:59
+                            On 13 Jul 2024, 22:15:18
                         </div>
                     </section>
                 </div>
@@ -2555,16 +2753,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Slot slot slot, give me three!
+                            Optifabric breaks, but the wither won't!
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">8a8b9217</span>
-                            <span class="code">src/main/java/dev/enjarai/trickster/item/ModItems.java</span>
+                            <span class="code">6edda4e3</span>
+                            <span class="code">src/main/java/dev/enjarai/trickster/spell/tricks/Tricks.java</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -2573,14 +2771,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">package dev.enjarai.trickster.item;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">import dev.enjarai.trickster.Trickster;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import dev.enjarai.trickster.effects.ModEffects;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import dev.enjarai.trickster.item.component.ModComponents;<br /></span><span class="token prefix unchanged">·</span><span class="token line">import dev.enjarai.trickster.item.component.SelectedSlotComponent;<br /></span><span class="token prefix unchanged">·</span><span class="token line">import dev.enjarai.trickster.item.component.SpellComponent;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -173,6 +173,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   // Projectile<br /></span><span class="token prefix unchanged">·</span><span class="token line">   public static final SummonArrowTrick SUMMON_ARROW = register("summon_arrow", new SummonArrowTrick());<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   // Projectile<br /></span><span class="token prefix inserted">+</span><span class="token line">   public static final SummonArrowTrick SUMMON_ARROW = register("summon_arrow", new SummonArrowTrick());<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   // Misc<br /></span><span class="token prefix unchanged">·</span><span class="token line">   public static final TypeFragmentTrick TYPE_FRAGMENT = register("type_fragment", new TypeFragmentTrick());<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2024, 21:21:13 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jul 2024, 05:20:56 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
